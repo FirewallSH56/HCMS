@@ -15,8 +15,11 @@
 ## Instalacion
 
 
+* Monta el archivo new.sql en una nueva db
 
-* Solo cambia el nombre y contraseña de la db en /inc/config.god.php al igual que la ip en el archivo hotel.php al igual que debes montar la db nada mas es eso.
+* Solo cambia el nombre y contraseña de la db en /inc/config.god.php
+
+* Cambia la ip en el archivo hotel.php
 
 * si tienes errores con la camara, solo cambia el link de la camara en la db en la tabla emulator_settings 
 
