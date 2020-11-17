@@ -23,7 +23,7 @@
 * tambien si tienes error con las placas de grupo igual cambia los links en la misma tabla de la db
 
 * recuerda agregar el archivo apollyon-2.Jar dentro de la carpeta del emulador dentro de la carpeta plugins 
-para que funcione correctamente la camara, 
+para que funcione correctamente la camara
 
 * tambien recuerda cambiar los links de las rutas de la camara y de las placas de grupos en las swfs en el directorio /gamedata/external_variables.txt 
 una vez hayas hecho todo esto, el hotel deberia ir al 100%
