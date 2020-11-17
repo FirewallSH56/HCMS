@@ -35,7 +35,7 @@ toda las direcciones deben de terminar con un slash /
 /home/usuario/root/dir/hiddo/images.hiddo/c_images/Badgeparts/ esto es lo mismo al igual en la otra variable /home/User1/root/dir/hiddo/images.hiddo/c_images/Badgeparts/generated/
 toda las direcciones deben de terminar con un slash /
 
-* Si sigues teniendo errores puedes ver los errores abriendo la consola de las herramientas de desarrollador del navegador 
+* Si sigues teniendo errores puedes ver los errores abriendo la consola de las herramientas de desarrollador del navegador cuando estes dentro del client para ver fallos
 con F12 o Ctrl + shift + i 
 tambien puedes revisar errores de las direcciones de la camara y de los grupos en la consola del mismo emulador
 
