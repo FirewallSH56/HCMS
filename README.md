@@ -37,7 +37,7 @@ toda las direcciones deben de terminar con un slash /
 
 * Si sigues teniendo errores puedes ver los errores abriendo la consola de las herramientas de desarrollador del navegador 
 con F12 o Ctrl + shift + i 
-tambien puedes revisar errores de las direcciones de la camara en la consola del mismo emulador
+tambien puedes revisar errores de las direcciones de la camara y de los grupos en la consola del mismo emulador
 
 
 <!-- LICENSE -->
