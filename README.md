@@ -19,7 +19,7 @@
 
 * Solo cambia el nombre y contraseña de la db en /inc/config.god.php
 
-* Cambia la ip en el archivo hotel.php
+* Cambia el host con la ip del Hotel en el archivo hotel.php
 
 * si tienes errores con la camara, solo cambia el link de la camara en la db en la tabla emulator_settings 
 
