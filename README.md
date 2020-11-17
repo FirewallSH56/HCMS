@@ -21,14 +21,15 @@
 
 * Cambia el host con la ip del Hotel en el archivo hotel.php
 
-* si tienes errores con la camara, solo cambia el link de la camara en la db en la tabla emulator_settings 
+* si tienes errores con la camara, solo cambia el link de la camara en la db en la tabla emulator_settings en las filas camera.url , imager.location.output.camera y imager.location.output.thumbnail OJO debes de cambiarlo por el directorio no por url, ejemplo : /root/dir/hiddo/camera/ esto es lo mismo al igual en el /root/dir/hiddo/camera/thumbnails/
 
-* tambien si tienes error con las placas de grupo igual cambia los links en la misma tabla de la db
+* tambien si tienes error con las placas de grupo igual cambia los links en la misma tabla de la db en las filas imager.location.badgeparts y imager.location.output.badges OJO debes de cambiarlo por el directorio no por url ejemplo :
+/root/dir/hiddo/images.hiddo/c_images/Badgeparts/ esto es lo mismo al igual en /root/dir/hiddo/images.hiddo/c_images/Badgeparts/generated
 
 * recuerda agregar el archivo apollyon-2.Jar dentro de la carpeta del emulador dentro de la carpeta plugins 
 para que funcione correctamente la camara
 
-* tambien recuerda cambiar los links de las rutas de la camara y de las placas de grupos en las swfs en el directorio /gamedata/external_variables.txt 
+* tambien recuerda cambiar los links de las rutas de la camara y de las placas de grupos en las swfs en el directorio /gamedata/external_variables.txt aqui ya utilizas url ejemplo http://hiddo.es/camera/ , http://hiddo.es/camera/thumbnails/ , http://images.hiddo.es/c_images/Badgeparts/ y http://images.hiddo.es/c_images/Badgeparts/generated/
 una vez hayas hecho todo esto, el hotel deberia ir al 100%
 
 
