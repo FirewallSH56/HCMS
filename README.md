@@ -27,10 +27,10 @@ para que funcione correctamente la camara
 * Recuerda cambiar los links de las rutas de la camara y de las placas de grupos en las swfs en el directorio /gamedata/external_variables.txt en las variables navigator.thumbnail.url_base= , stories.base_url= y camera.store.url= aqui utilizas url ejemplo: http://hiddo.es/camera/ , http://hiddo.es/camera/thumbnails/ , http://images.hiddo.es/c_images/Badgeparts/ y http://images.hiddo.es/c_images/Badgeparts/generated/
 una vez hayas hecho todo esto, el hotel deberia ir al 100%
 
-* si tienes errores con la camara, solo cambia el link de la camara en la db en la tabla emulator_settings en las filas camera.url , imager.location.output.camera y imager.location.output.thumbnail OJO debes de cambiarlo por el directorio no por url, ejemplo : /root/dir/hiddo/camera/ esto es lo mismo al igual en el /root/dir/hiddo/camera/thumbnails/
+* si tienes errores con la camara, solo cambia el link de la camara en la db en la tabla emulator_settings en las filas camera.url , imager.location.output.camera y imager.location.output.thumbnail OJO debes de cambiarlo por el directorio completo no por url, ejemplo : /home/usuario/root/dir/hiddo/camera/ esto es lo mismo al igual en el /root/dir/hiddo/camera/thumbnails/
 
-* tambien si tienes error con las placas de grupo igual cambia los links en la misma tabla de la db en las filas imager.location.badgeparts y imager.location.output.badges OJO debes de cambiarlo por el directorio no por url ejemplo :
-/root/dir/hiddo/images.hiddo/c_images/Badgeparts/ esto es lo mismo al igual en /root/dir/hiddo/images.hiddo/c_images/Badgeparts/generated
+* tambien si tienes error con las placas de grupo igual cambia los links en la misma tabla de la db en las filas imager.location.badgeparts y imager.location.output.badges OJO debes de cambiarlo por el directorio completo no por url ejemplo :
+/home/usuario/root/dir/hiddo/images.hiddo/c_images/Badgeparts/ esto es lo mismo al igual en /root/dir/hiddo/images.hiddo/c_images/Badgeparts/generated
 
 
 
