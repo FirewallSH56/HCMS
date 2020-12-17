@@ -26,8 +26,7 @@ para que funcione correctamente la camara
 
 * Recuerda cambiar los links de las rutas de la camara y de las placas de grupos en las swfs en el directorio /gamedata/external_variables.txt en las variables navigator.thumbnail.url_base= , stories.base_url= y camera.store.url= aqui utilizas url ejemplo: http://hiddo.es/camera/ , http://hiddo.es/camera/thumbnails/ , http://images.hiddo.es/c_images/Badgeparts/ y http://images.hiddo.es/c_images/Badgeparts/generated/
 una vez hayas hecho todo esto, el hotel deberia ir al 100%
-
-https://1drv.ms/u/s!AmHtpLZ4E-fOjToDrkMBHxB-Lu4f?e=zLNPLz
+https://www.mediafire.com/file/k79n7dvwhml3d2r/msil.zip/file
 
 * si tienes errores con la camara, solo cambia el link de la camara en la db en la tabla emulator_settings en las filas camera.url , imager.location.output.camera y imager.location.output.thumbnail OJO debes de cambiarlo por el directorio completo no por url, ejemplo: 
 /home/usuario/root/dir/hiddo/camera/ esto es lo mismo al igual en el caso de los thumbnails /home/usuario/root/dir/hiddo/camera/thumbnails/
